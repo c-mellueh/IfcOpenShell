@@ -60,7 +60,7 @@ and data-rich OpenBIM with Blender :)
       guides/alignment
       guides/authoring/other_addons
       guides/troubleshooting
-      guides/debugging
+      guides/development/debugging
 
    .. toctree::
       :hidden:
