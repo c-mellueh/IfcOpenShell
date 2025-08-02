@@ -33,7 +33,7 @@ For convenience, related hotkeys are overridden using their IFC versions.
 
 
 Bonsai Special Hotkeys
--------
+----------------------
 
 - :kbd:`Ctrl` + :kbd:`Shift` + :kbd:`D` - Duplicate IFC Aggregate
 - :kbd:`Ctrl` + :kbd:`Tab` - Switch Tab (in Bonsai Properties Panel)
