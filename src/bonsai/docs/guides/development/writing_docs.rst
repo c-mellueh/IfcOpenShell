@@ -188,8 +188,6 @@ Now you can generate the documentation:
 
 .. warning::
 
-.. warning::
-
    Depending on your machine and environment, you might need to use ``.\make`` instead of ``make``.
 
 You will now have a local webserver running hosting the documentation. Your terminal 
