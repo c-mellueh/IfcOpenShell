@@ -62,7 +62,7 @@ If you still struggling, here's what you should get:
 
 .. container:: blockbutton
 
-  `Download project0-walls.ifc <files/project0-walls.ifc>`__
+  `Download project0-walls.ifc </_static/tutorials/project0-walls.ifc>`__
 
 
 3. Adding Openings
@@ -112,36 +112,36 @@ If you're having difficulties, you can download the sample file:
 
 .. container:: blockbutton
 
-  `Download project0-openings.ifc <files/project0-openings.ifc>`__
+  `Download project0-openings.ifc </_static/tutorials/project0-openings.ifc>`__
 
-4. Creating the Floor Slab
+1. Creating the Floor Slab
 --------------------------
 
 1. Use the "Create Slab" tool to add a floor
 2. Adjust slab thickness and elevation
 
-5. Basic MEP Elements
+3. Basic MEP Elements
 ---------------------
 
 1. Add electrical outlets using IFC Electric Terminal
 2. Place a light fixture using IFC Lighting Fixture
 3. Add a simple HVAC vent using IFC Flow Terminal
 
-6. Placing Furniture
+4. Placing Furniture
 --------------------
 
 1. Import basic furniture from the Bonsai library
 2. Position and rotate furniture items
 3. Adjust furniture properties if needed
 
-7. Generating a Floor Plan
+4. Generating a Floor Plan
 --------------------------
 
 1. Set up a plan view using the Bonsai drawing tools
 2. Add dimensions to the floor plan
 3. Include basic annotations and labels
 
-8. Finish
+4. Finish
 ---------
 
 1. Review IFC properties for all elements
