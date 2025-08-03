@@ -98,5 +98,5 @@ IFC Version Considerations
 See Also
 --------
 
-- :doc:`../../structural_analysis/index`
-- :doc:`../../costing_and_scheduling/index`
+- :doc:`../structural_analysis/index`
+- :doc:`../costing_and_scheduling/index`
